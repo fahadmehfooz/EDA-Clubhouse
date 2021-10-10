@@ -35,8 +35,8 @@ invitedbyuser_profile
 
 Some of the visualizations are shown here:
 
-![alt text](https://github.com/fahadmehfooz/Reddit-Vaccine-Myths-EDA/blob/main/images/__results___74_0.png)
-![alt text](https://github.com/fahadmehfooz/Reddit-Vaccine-Myths-EDA/blob/main/images/__results___80_1.png)
+![alt text](https://github.com/fahadmehfooz/EDA-Clubhouse/blob/main/images/__results___22_1.png)
+![alt text](https://github.com/fahadmehfooz/EDA-Clubhouse/blob/main/images/__results___42_0.png)
 
 # Conclusion:
 
