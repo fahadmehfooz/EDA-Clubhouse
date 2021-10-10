@@ -3,7 +3,7 @@
 * Investigating users with highest number of followers on social media apps.
 * Data is present as a sql table and not a csv file, therefore, creating a connection and reading the sql data and then creating a Dataframe from it.
 * Dataset contains 13,00,515 rows and 10 columns.
-* Analyzing numers present for different social media apps to come up who leads on several platforms.
+* Analyzing numbers present for different social media apps to come up who leads on several platforms.
 
 ## Languages Used 
 **Python Version:** 3.9.0
